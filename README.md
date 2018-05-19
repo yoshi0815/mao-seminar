@@ -1,6 +1,11 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
 
+#menber
+professor K
+elmas
+L
+
 # ディレクトリ構成
 ```
 seminar/
